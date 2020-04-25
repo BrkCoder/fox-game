@@ -41,10 +41,12 @@ body {
   left: 67px;
 }
 
-.game.night {
-  width: 716px;
-  top: 62px;
-  left: -19px;
+.game {
+  &.night {
+    width: 716px;
+    top: 62px;
+    left: -19px;
+  }
 }
 
 .hidden {

@@ -1,5 +1,3 @@
-// import game, { handleUserAction } from "./gameState";
-// import initButtons from "./buttons";
 import { Constants } from "./constants";
 import { GameState } from "./gameState";
 import { Buttons } from "./buttons";
